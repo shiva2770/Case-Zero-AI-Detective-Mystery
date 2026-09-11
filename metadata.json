@@ -1,0 +1,6 @@
+{
+  "name": "Case Zero: AI Detective Mystery",
+  "description": "Procedurally generated fair-play AI detective mystery game driven by Gemini as the Game Master with interactive suspect interrogations, evidence corkboard, and deduction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
